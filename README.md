@@ -12,6 +12,8 @@ CSS
 
 This project wins the second-prize at Texas MCU Design Context Vietnam 2017
 DATE : 12/2017
+
+https://www.youtube.com/watch?v=yjq3bA1C20I&t=3s
 ## Table of contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
