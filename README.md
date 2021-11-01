@@ -12,6 +12,7 @@ CSS
 
 This project wins the second-prize at Texas MCU Design Context Vietnam 2017
 DATE : 12/2017
+
 Team Members: Tai, Minh, Tien
 
 https://www.youtube.com/watch?v=yjq3bA1C20I&t=3s
