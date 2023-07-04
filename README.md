@@ -15,7 +15,6 @@ DATE : 12/2017
 
 Team Members: Tai, Minh, Tien
 
-https://www.youtube.com/watch?v=yjq3bA1C20I&t=3s
 ## Table of contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
